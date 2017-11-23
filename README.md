@@ -28,8 +28,8 @@ follows:
 ## Related Products
 * [Learning Ceph - Second Edition](https://www.packtpub.com/virtualization-and-cloud/learning-ceph-second-edition?utm_source=github&utm_medium=repository&utm_content=9781787127913)
 
-* [Modern Python Cookbook](https://www.packtpub.com/application-development/modern-python-cookbook?utm_source=github&utm_medium=repository&utm_content=9781786469250)
+* [Mastering Proxmox - Third Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-proxmox-third-edition?utm_source=github&utm_medium=repository&utm_content=9781788397605)
 
-* [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_content=9781783555130)
+* [Building Data Streaming Applications with Apache Kafka](https://www.packtpub.com/big-data-and-business-intelligence/building-data-streaming-applications-apache-kafka?utm_source=github&utm_medium=repository&utm_content=9781787283985)
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
