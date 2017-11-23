@@ -9,9 +9,20 @@ This book will guide you right from the basics of Ceph , such as creating blocks
 By the end of this book, you will have practical, hands - on experience of using Ceph efficiently for your storage requirements.
 
 ## Instructions and Navigations
-Some of the important commands are as following:
+Some of the important commands are as follows:
+```
+$ git clone https://github.com/PacktPublishing/Ceph-Cookbook-Second-Edition
+```
 ```
 # vagrant up ceph-node1 ceph-node2 ceph-node3
+```
+```
+# yum install ntp ntpdate -y
+# ntpdate pool.ntp.org
+# systemctl restart ntpdate.service
+# systemctl restart ntpd.service
+# systemctl enable ntpd.service
+# systemctl enable ntpdate.service
 ```
 ```
 # ceph -s
