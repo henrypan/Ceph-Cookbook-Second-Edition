@@ -8,6 +8,16 @@ This book will guide you right from the basics of Ceph , such as creating blocks
 
 By the end of this book, you will have practical, hands - on experience of using Ceph efficiently for your storage requirements.
 
+## Instructions and Navigations
+Some of the important commands are as following:
+```
+# vagrant up ceph-node1 ceph-node2 ceph-node3
+```
+```
+# ceph -s
+```
+
+
 ## Software and Hardware Requirements
 
 The various software components required to follow the instructions in the chapters are as
