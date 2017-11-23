@@ -13,13 +13,12 @@ By the end of this book, you will have practical, hands - on experience of using
 The various software components required to follow the instructions in the chapters are as
 follows:
 
-* VirtualBox 4.0 or higher (https:/ / www. virtualbox. org/ wiki/ Downloads)
-* GIT (http:/ / www. git- scm. com/ downloads)
-* Vagrant 1.5.0 or higher (https:/ / www. vagrantup. com/ downloads. html)
-* CentOS operating system 7.0 or higher (http:/ / wiki. centos. org/ Download)
-* Ceph software Jewel packages Version 10.2.0 or higher (http:/ / ceph. com/
-resources/ downloads/ )
-* S3 Client, typically S3cmd (http:/ / s3tools. org/ download)
+* VirtualBox 4.0 or higher (https://www.virtualbox.org/wiki/Downloads)
+* GIT (http://www.git-scm.com/downloads)
+* Vagrant 1.5.0 or higher (https://www.vagrantup.com/downloads.html)
+* CentOS operating system 7.0 or higher (http://wiki.centos.org/Download)
+* Ceph software Jewel packages Version 10.2.0 or higher (http://ceph.com/resources/downloads/ )
+* S3 Client, typically S3cmd (http://s3tools.org/download)
 * Python-swift client
 * NFS Ganesha
 * Ceph Fuse
